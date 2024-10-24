@@ -72,7 +72,7 @@ Esse é o desafio de implementação do contador, seguindo as boas práticas de 
 ## Clone o repositório:
 
 1. Copiar código
-git clone https://github.com/seuusuario/desafioDio.git
+git clone https://github.com/Jullyhein/desafioDio.git
 
 2. Compile o código:
 javac Contador.java
